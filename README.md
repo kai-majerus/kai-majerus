@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Kai</h1>
-<h3 align="center">An enthusiastic life-long learner and data scientist from London</h3>
+<h1 align="left">Hi 👋, I'm Kai</h1>
+<h3 align="left">An enthusiastic life-long learner and data scientist from London</h3>
 
 - 🔭 I’m currently working on **🚀 A few portfolio projects**
 
