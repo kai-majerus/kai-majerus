@@ -1,13 +1,13 @@
 <h1 align="left">Hi 👋, I'm Kai</h1>
 <h3 align="left">An enthusiastic life-long learner and data scientist from London</h3>
 
-- 🔭 I’m currently working on **🚀 Driver Drowsiness Detection and a few other portfolio projects**
+- 🔭 I’m currently working on ** Driver Drowsiness Detection and a few other portfolio projects**
 
-- 🌱 I’m currently learning **🤓 Hands-On Machine Learning with Scikit-Learn, Keras and Tensorflow**
+- 🌱 I’m currently learning * Hands-On Machine Learning with Scikit-Learn, Keras and Tensorflow**
 
-- 📫 How to reach me **📧 Reach me on kaimajerus93@gmail.com**
+- 📫 How to reach me ** kaimajerus93@gmail.com**
 
-- ⚡ Fun fact **🎓 I'm completing a data science bootcamp at Le Wagon**
+- ⚡ Fun fact ** I'm completing a data science bootcamp at Le Wagon**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
