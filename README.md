@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on ** Driver Drowsiness Detection and a few other portfolio projects**
 
-- 🌱 I’m currently learning * Hands-On Machine Learning with Scikit-Learn, Keras and Tensorflow**
+- 🌱 I’m currently learning ** Hands-On Machine Learning with Scikit-Learn, Keras and Tensorflow**
 
 - 📫 How to reach me ** kaimajerus93@gmail.com**
 
