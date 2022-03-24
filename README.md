@@ -7,7 +7,7 @@
 
 - 📫 How to reach me: **kaimajerus93@gmail.com**
 
-- ⚡ Fun fact: **I'm completing a data science bootcamp at Le Wagon**
+- ⛷  Fun fact: **I'm a qualified ski instructor**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
